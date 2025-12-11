@@ -1,0 +1,12 @@
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\bin\Debug\net8.0\MuratYilmaz.Domain.deps.json
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\bin\Debug\net8.0\MuratYilmaz.Domain.dll
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\bin\Debug\net8.0\MuratYilmaz.Domain.pdb
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\MuratYilmaz.Domain.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\MuratYilmaz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\MuratYilmaz.Domain.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\MuratYilmaz.Domain.AssemblyInfo.cs
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\MuratYilmaz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\MuratYilmaz.Domain.dll
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\refint\MuratYilmaz.Domain.dll
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\MuratYilmaz.Domain.pdb
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Domain\obj\Debug\net8.0\ref\MuratYilmaz.Domain.dll

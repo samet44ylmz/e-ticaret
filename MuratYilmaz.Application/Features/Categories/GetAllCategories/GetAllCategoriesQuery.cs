@@ -1,0 +1,12 @@
+using MediatR;
+using MuratYilmaz.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using TS.Result;
+
+namespace MuratYilmaz.Application.Features.Categories.GetAllCategories;
+
+public sealed record GetAllCategoriesQuery() : IRequest<Result<List<Category>>>;

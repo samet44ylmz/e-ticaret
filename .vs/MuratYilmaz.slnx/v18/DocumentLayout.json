@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.application\\features\\abouts\\createabout\\createaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|solutionrelative:muratyilmaz.application\\features\\abouts\\createabout\\createaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.application\\features\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|solutionrelative:muratyilmaz.application\\features\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C84458-B782-59D6-D5A8-D1C5B1072BBC}|MuratYilmaz.Domain\\MuratYilmaz.Domain.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C84458-B782-59D6-D5A8-D1C5B1072BBC}|MuratYilmaz.Domain\\MuratYilmaz.Domain.csproj|solutionrelative:muratyilmaz.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C84458-B782-59D6-D5A8-D1C5B1072BBC}|MuratYilmaz.Domain\\MuratYilmaz.Domain.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.domain\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C84458-B782-59D6-D5A8-D1C5B1072BBC}|MuratYilmaz.Domain\\MuratYilmaz.Domain.csproj|solutionrelative:muratyilmaz.domain\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.application\\features\\abouts\\getallabouts\\getallaboutsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|solutionrelative:muratyilmaz.application\\features\\abouts\\getallabouts\\getallaboutsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3158369F-5124-84DE-34E1-52875FB0EFDD}|MuratYilmaz.Infrastructure\\MuratYilmaz.Infrastructure.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3158369F-5124-84DE-34E1-52875FB0EFDD}|MuratYilmaz.Infrastructure\\MuratYilmaz.Infrastructure.csproj|solutionrelative:muratyilmaz.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3158369F-5124-84DE-34E1-52875FB0EFDD}|MuratYilmaz.Infrastructure\\MuratYilmaz.Infrastructure.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.infrastructure\\repositories\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3158369F-5124-84DE-34E1-52875FB0EFDD}|MuratYilmaz.Infrastructure\\MuratYilmaz.Infrastructure.csproj|solutionrelative:muratyilmaz.infrastructure\\repositories\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C84458-B782-59D6-D5A8-D1C5B1072BBC}|MuratYilmaz.Domain\\MuratYilmaz.Domain.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.domain\\repositories\\iaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C84458-B782-59D6-D5A8-D1C5B1072BBC}|MuratYilmaz.Domain\\MuratYilmaz.Domain.csproj|solutionrelative:muratyilmaz.domain\\repositories\\iaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C84458-B782-59D6-D5A8-D1C5B1072BBC}|MuratYilmaz.Domain\\MuratYilmaz.Domain.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C84458-B782-59D6-D5A8-D1C5B1072BBC}|MuratYilmaz.Domain\\MuratYilmaz.Domain.csproj|solutionrelative:muratyilmaz.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADFEE50-2471-B105-4D24-ADC8828603BE}|MuratYilmaz.WebAPI\\MuratYilmaz.WebAPI.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADFEE50-2471-B105-4D24-ADC8828603BE}|MuratYilmaz.WebAPI\\MuratYilmaz.WebAPI.csproj|solutionrelative:muratyilmaz.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Infrastructure\\Migrations\\20251211085250_mg3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MuratYilmaz.Infrastructure\\Migrations\\20251211085250_mg3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.application\\features\\products\\deleteproductbyid\\deleteproductbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|solutionrelative:muratyilmaz.application\\features\\products\\deleteproductbyid\\deleteproductbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|c:\\users\\huawei\\onedrive\\desktop\\muratyilmaz\\muratyilmaz\\muratyilmaz.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFE1A62-B054-34B2-27D5-0B0B0071A99F}|MuratYilmaz.Application\\MuratYilmaz.Application.csproj|solutionrelative:muratyilmaz.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Features\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Application\\Features\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Features\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "MuratYilmaz.Application\\Features\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:47:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAboutCommand.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Features\\Abouts\\CreateAbout\\CreateAboutCommand.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Application\\Features\\Abouts\\CreateAbout\\CreateAboutCommand.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Features\\Abouts\\CreateAbout\\CreateAboutCommand.cs",
+              "RelativeToolTip": "MuratYilmaz.Application\\Features\\Abouts\\CreateAbout\\CreateAboutCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:44:41.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllAboutsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Features\\Abouts\\GetAllAbouts\\GetAllAboutsQueryHandler.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Application\\Features\\Abouts\\GetAllAbouts\\GetAllAboutsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Features\\Abouts\\GetAllAbouts\\GetAllAboutsQueryHandler.cs",
+              "RelativeToolTip": "MuratYilmaz.Application\\Features\\Abouts\\GetAllAbouts\\GetAllAboutsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:35:31.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Domain\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Domain\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Domain\\Entities\\About.cs",
+              "RelativeToolTip": "MuratYilmaz.Domain\\Entities\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:20:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "MuratYilmaz.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:30:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MuratYilmaz.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:32:15.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Infrastructure\\Repositories\\AboutRepository.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Infrastructure\\Repositories\\AboutRepository.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Infrastructure\\Repositories\\AboutRepository.cs",
+              "RelativeToolTip": "MuratYilmaz.Infrastructure\\Repositories\\AboutRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:31:54.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAboutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Domain\\Repositories\\IAboutRepository.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Domain\\Repositories\\IAboutRepository.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Domain\\Repositories\\IAboutRepository.cs",
+              "RelativeToolTip": "MuratYilmaz.Domain\\Repositories\\IAboutRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:23:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Domain\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "MuratYilmaz.Domain\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:30:13.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MuratYilmaz.WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:54:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251211085250_mg3.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Infrastructure\\Migrations\\20251211085250_mg3.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Infrastructure\\Migrations\\20251211085250_mg3.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Infrastructure\\Migrations\\20251211085250_mg3.cs",
+              "RelativeToolTip": "MuratYilmaz.Infrastructure\\Migrations\\20251211085250_mg3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:52:51.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteProductByIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommand.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommand.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommand.cs",
+              "RelativeToolTip": "MuratYilmaz.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:49:09.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MuratYilmaz.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\MuratYilmaz\\MuratYilmaz\\MuratYilmaz.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "MuratYilmaz.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:36:44.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

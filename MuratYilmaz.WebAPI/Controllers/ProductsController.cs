@@ -1,0 +1,44 @@
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
+using MuratYilmaz.Application.Features.Products.CreateProduct;
+using MuratYilmaz.Application.Features.Products.DeleteProductById;
+using MuratYilmaz.Application.Features.Products.GetAllProducts;
+using MuratYilmaz.Application.Features.Products.UpdateProduct;
+using MuratYilmaz.WebAPI.Abstractions;
+
+namespace MuratYilmaz.WebAPI.Controllers;
+
+public sealed class ProductsController : ApiController
+{
+    public ProductsController(IMediator mediator) : base(mediator)
+    {
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> GetAll(GetAllProductsQuery request, CancellationToken cancellationToken)
+    {
+        var response = await _mediator.Send(request, cancellationToken);
+        return StatusCode(response.StatusCode, response);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Create(CreateProductCommand request, CancellationToken cancellationToken)
+    {
+        var response = await _mediator.Send(request, cancellationToken);
+        return StatusCode(response.StatusCode, response);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Update(UpdateProductCommand request, CancellationToken cancellationToken)
+    {
+        var response = await _mediator.Send(request, cancellationToken);
+        return StatusCode(response.StatusCode, response);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> DeleteById(DeleteProductByIdCommand request, CancellationToken cancellationToken)
+    {
+        var response = await _mediator.Send(request, cancellationToken);
+        return StatusCode(response.StatusCode, response);
+    }
+}

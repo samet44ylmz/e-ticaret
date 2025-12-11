@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\bin\Debug\net8.0\MuratYilmaz.Application.deps.json
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\bin\Debug\net8.0\MuratYilmaz.Application.dll
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\bin\Debug\net8.0\MuratYilmaz.Application.pdb
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\bin\Debug\net8.0\MuratYilmaz.Domain.dll
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\bin\Debug\net8.0\MuratYilmaz.Domain.pdb
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\MuratYilmaz.Application.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\MuratYilmaz.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\MuratYilmaz.Application.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\MuratYilmaz.Application.AssemblyInfo.cs
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\MuratYilmaz.Application.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\MuratYil.699389B2.Up2Date
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\MuratYilmaz.Application.dll
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\refint\MuratYilmaz.Application.dll
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\MuratYilmaz.Application.pdb
+C:\Users\HUAWEI\OneDrive\Desktop\MuratYilmaz\MuratYilmaz\MuratYilmaz.Application\obj\Debug\net8.0\ref\MuratYilmaz.Application.dll

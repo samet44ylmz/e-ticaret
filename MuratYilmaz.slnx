@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MuratYilmaz.Application/MuratYilmaz.Application.csproj" />
+  <Project Path="MuratYilmaz.Domain/MuratYilmaz.Domain.csproj" />
+  <Project Path="MuratYilmaz.Infrastructure/MuratYilmaz.Infrastructure.csproj" />
+  <Project Path="MuratYilmaz.WebAPI/MuratYilmaz.WebAPI.csproj" />
+</Solution>
